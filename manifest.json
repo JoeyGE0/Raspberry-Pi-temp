@@ -1,7 +1,7 @@
 {
   "domain": "raspberry_pi_temperature",
   "name": "Raspberry Pi Temperature",
-  "documentation": "https://github.com/your-username/your-repo",
+  "documentation": "https://github.com/JoeyGE0/Raspberry-Pi-temp",
   "dependencies": [],
   "codeowners": ["JoeyGE0"],
   "requirements": []
